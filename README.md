@@ -6,7 +6,10 @@
 </a>
 
 <p align="center">
-  <img src="./flowgoo-logo.png" width="22" height="22" style="vertical-align: middle; border-radius: 6px;" /> <b>Founder @ Flowgoo • Building next-gen social platforms & scalable tech.</b>
+  <a href="https://flowgoo.online" target="_blank">
+    <img src="./flowgoo-logo.png" width="22" height="22" style="vertical-align: middle; border-radius: 6px;" /> <b>Founder @ Flowgoo</b>
+  </a>
+  <b> • Building next-gen social platforms & scalable tech.</b>
 </p>
 
 <!-- Social & Status Badges -->
@@ -31,9 +34,9 @@ Current_Focus: Scaling Flowgoo, real-time social feeds & distributed architectur
 Core_Belief: "Code is leverage. Build things that millions use and love."
 ```
 
-> *Hey! I'm Dhruv — a founder, full-stack engineer, and product builder obsessed with the intersection of real-time web, social networks, and artificial intelligence. Currently pouring my energy into **Flowgoo**, building the next chapter of human connection on the internet.*
+> *Hey! I'm Dhruv — a founder, full-stack engineer, and product builder obsessed with the intersection of real-time web, social networks, and artificial intelligence. Currently pouring my energy into [**Flowgoo**](https://flowgoo.online), building the next chapter of human connection on the internet.*
 
-- 🚀 **Founder @ Flowgoo**: Building an indie social network with real-time feeds, interactive media, and seamless community spaces.
+- 🚀 **Founder @ [Flowgoo](https://flowgoo.online)**: Building an indie social network with real-time feeds, interactive media, and seamless community spaces.
 - ⚡ **Full-Stack Craft**: Designing high-throughput backends and snappy frontend interfaces using TypeScript, React, Node.js, and modern cloud databases.
 - 🤖 **AI & Autonomous Tools**: Creator of [Red-Guard](https://github.com/dhruv-lx/Red-Guard) (Reddit Mod Tools Hackathon autonomous moderation copilot).
 - 🧠 **Continuous Learner**: Diving deep into distributed systems, low-latency microservices, and LLM orchestration.
@@ -143,8 +146,12 @@ Core_Belief: "Code is leverage. Build things that millions use and love."
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="./flowgoo-logo.png" width="52" height="52" alt="Flowgoo Logo" style="border-radius: 12px; margin-bottom: 6px;" />
-        <h3 align="center" style="margin: 4px 0;">🌐 Flowgoo</h3>
+        <a href="https://flowgoo.online" target="_blank">
+          <img src="./flowgoo-logo.png" width="52" height="52" alt="Flowgoo Logo" style="border-radius: 12px; margin-bottom: 6px;" />
+        </a>
+        <h3 align="center" style="margin: 4px 0;">
+          <a href="https://flowgoo.online" target="_blank">🌐 Flowgoo</a>
+        </h3>
       </div>
       <p align="center">
         <b>Founder & Lead Architect • Next-Gen Social Networking Platform</b>
@@ -155,7 +162,7 @@ Core_Belief: "Code is leverage. Build things that millions use and love."
         <li>Focused on scalable infrastructure and user-centric social connectivity.</li>
       </ul>
       <p align="center">
-        <b>Flagship Project • In Active Development 🚀</b>
+        <a href="https://flowgoo.online" target="_blank"><b>Visit Flowgoo (flowgoo.online) →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
