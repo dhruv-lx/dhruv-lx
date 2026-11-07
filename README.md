@@ -41,13 +41,9 @@ Motto: "Turn coffee and ideas into scalable software."
 
 ## 🐍 GitHub Contribution Snake
 
-<!-- Contribution Snake Animation Generated via GitHub Actions -->
+<!-- Interactive Animated Contribution Snake eating DHRUV -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruv-lx/dhruv-lx/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruv-lx/dhruv-lx/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/dhruv-lx/dhruv-lx/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="./dhruv-snake.svg" alt="Dhruv GitHub Contribution Snake Animation" width="100%" />
 </div>
 
 ---
