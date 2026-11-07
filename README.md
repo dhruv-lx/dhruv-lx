@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/dhruv-lx">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=28&pause=1000&color=FF4500&center=true&vCenter=true&random=false&width=650&height=50&lines=Hi+there!+I'm+Dhruv+👋;Founder+of+Flowgoo+🌐;Building+Social+Tech+%26+Next-Gen+Platforms+⚡;Crafting+Scalable+Products+%26+AI+Tools+🚀" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=28&pause=1000&color=FF4500&center=true&vCenter=true&random=false&width=650&height=50&lines=Hi%20there!%20I%20am%20Dhruv;Founder%20of%20Flowgoo;Building%20Social%20Platforms%20and%20AI%20Tools;Full%20Stack%20Software%20Developer" alt="Typing SVG Banner" />
 </a>
 
 <p align="center">
