@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-  <b>Founder @ Flowgoo • Passionate about building platforms that connect people & crafting scalable software.</b>
+  <img src="./flowgoo-logo.png" width="22" height="22" style="vertical-align: middle; border-radius: 6px;" /> <b>Founder @ Flowgoo • Building next-gen social platforms & scalable tech.</b>
 </p>
 
 <!-- Social & Status Badges -->
@@ -25,18 +25,19 @@
 
 ```yaml
 Name: Dhruv
-Role: Founder @ Flowgoo | Full Stack Developer & Builder
-Vision: Building interactive platforms that bring people together & empower communities
-Passions: Social Networking, Web Architecture, AI Integration, Scalable Backends
-Current_Focus: Scaling Flowgoo, Deep LLM Integration & High-Performance Full-Stack Systems
-Motto: "Move fast, build things that matter, and connect the world."
+Role: Founder @ Flowgoo | Full Stack Architect & Indie Builder
+Obsession: Crafting social products, scalable web apps & intelligent systems
+Current_Focus: Scaling Flowgoo, real-time social feeds & distributed architectures
+Core_Belief: "Code is leverage. Build things that millions use and love."
 ```
 
-- 🌐 **Founder of Flowgoo**: Architecting and developing **Flowgoo**, a modern social networking platform built to foster connection and community.
-- 🔭 **What I'm building**: High-impact social web tools, autonomous Reddit AI assistants like [Red-Guard](https://github.com/dhruv-lx/Red-Guard), and scalable applications.
-- 💡 **Inspiration & Drive**: Driven by the mindset of building products that bring real-world impact and people together.
-- 💬 **Ask me about**: JavaScript, TypeScript, React, System Design, AI integration, Firebase, and modern full-stack workflows.
-- ⚡ **Fun fact**: When code doesn't work, I stare at it until it gets intimidated and fixes itself.
+> *Hey! I'm Dhruv — a founder, full-stack engineer, and product builder obsessed with the intersection of real-time web, social networks, and artificial intelligence. Currently pouring my energy into **Flowgoo**, building the next chapter of human connection on the internet.*
+
+- 🚀 **Founder @ Flowgoo**: Building an indie social network with real-time feeds, interactive media, and seamless community spaces.
+- ⚡ **Full-Stack Craft**: Designing high-throughput backends and snappy frontend interfaces using TypeScript, React, Node.js, and modern cloud databases.
+- 🤖 **AI & Autonomous Tools**: Creator of [Red-Guard](https://github.com/dhruv-lx/Red-Guard) (Reddit Mod Tools Hackathon autonomous moderation copilot).
+- 🧠 **Continuous Learner**: Diving deep into distributed systems, low-latency microservices, and LLM orchestration.
+- 💬 **Let's Talk**: Building startups, full-stack architecture, social graphs, or open-source products.
 
 ---
 
@@ -141,9 +142,12 @@ Motto: "Move fast, build things that matter, and connect the world."
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Flowgoo</h3>
+      <div align="center">
+        <img src="./flowgoo-logo.png" width="52" height="52" alt="Flowgoo Logo" style="border-radius: 12px; margin-bottom: 6px;" />
+        <h3 align="center" style="margin: 4px 0;">🌐 Flowgoo</h3>
+      </div>
       <p align="center">
-        <b>Founder & Lead Architect • Modern Social Networking Platform</b>
+        <b>Founder & Lead Architect • Next-Gen Social Networking Platform</b>
       </p>
       <ul>
         <li>Building an engaging social space designed to connect friends, creators, and communities seamlessly.</li>
