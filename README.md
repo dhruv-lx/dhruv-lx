@@ -12,8 +12,8 @@
 <!-- Social & Status Badges -->
 <p align="center">
   <a href="https://github.com/dhruv-lx?tab=repositories"><img src="https://img.shields.io/github/followers/dhruv-lx?label=Followers&style=for-the-badge&logo=github&color=24292e&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:itzdhruv55@gmail.com"><img src="https://img.shields.io/badge/Email-itzdhruv55%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/heydhruvv"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/dhruv-lx"><img src="https://komarev.com/ghpvc/?username=dhruv-lx&style=for-the-badge&color=ff4500&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 </p>
 
@@ -227,16 +227,12 @@ Motto: "Move fast, build things that matter, and connect the world."
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/heydhruvv">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-&nbsp;
-<a href="https://twitter.com">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+<a href="mailto:itzdhruv55@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-itzdhruv55%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <br /><br />
