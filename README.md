@@ -197,7 +197,7 @@ Motto: "Move fast, build things that matter, and connect the world."
   <tr>
     <td>
       <a href="https://github.com/dhruv-lx">
-        <img src="https://github-readme-stats.vercel.app/api?username=dhruv-lx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Dhruv's GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhruv-lx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Dhruv's GitHub Stats" />
       </a>
     </td>
     <td>
@@ -209,7 +209,7 @@ Motto: "Move fast, build things that matter, and connect the world."
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/dhruv-lx">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-lx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruv-lx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
       </a>
     </td>
   </tr>
